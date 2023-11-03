@@ -1,8 +1,7 @@
-"""Rock, paper, scissors!
+'''
+Piedra papel o tijera
 
-
-Rock, paper, scissors made on Python.
-"""
+'''
 
 import random
 
